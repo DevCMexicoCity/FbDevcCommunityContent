@@ -102,7 +102,10 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 
 ## Contributions
+
 - [PyTorch.](https://github.com/pytorch/pytorch/labels/Good%20first%20issue) - Make your first contribution to PyTorch.
+- [Hermes.](https://github.com/facebook/hermes/labels/Good%20first%20issue) - Make your first contribution to Hermes.
+- [Hydra.](https://github.com/facebookresearch/hydra/labels/good%20first%20issue) - Make your first contribution to Hydra.
 
 ## Books
 
