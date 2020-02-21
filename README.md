@@ -9,6 +9,7 @@ A curated list of awesome content created by Facebook Developer Circles communit
 - [Workshops](#workshops)
 - [Articles](#articles)
 - [Tools](#tools)
+- [First Contributions](#contributions)
 - [Books](#books)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -99,6 +100,9 @@ Useful articles and learning resources.
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
+
+## Contributions
+- [PyTorch.](https://github.com/pytorch/pytorch/labels/Good%20first%20issue) - Make your first contribution to PyTorch.
 
 ## Books
 
